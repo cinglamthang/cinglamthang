@@ -1,3 +1,5 @@
+![Cing Lam Thang](https://github.com/cinglamthang/cinglamthang/commit/48b810548d7423fb7b040f205efe3676d228a08e)
+
 <h1 align="center">Hi 👋, I'm Cing Lam Thang</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
